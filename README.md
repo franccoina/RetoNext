@@ -10,7 +10,9 @@
 
 1. *Clone the repository*:
 
-https://github.com/franccoina/RetoNext/
+```bash
+git clone https://github.com/franccoina/RetoNext/
+```
 
 2. *Run the application*:
 
